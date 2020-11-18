@@ -1,0 +1,14 @@
+{
+    "name": "anleyun/framework",
+    "description": "anleyun/framework\u001b[D\u001b[D\u001b[D",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Li Hongzhou",
+            "email": "www@lihongzhou.cn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
